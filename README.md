@@ -1,8 +1,6 @@
 
 - 🌱 I’m currently learning python
 
-- ✉️ I'm brand spankin new to this stuff, but i'm going in head first.
-
 - 📫 How to reach me 3turnall#4123
 
 <!---
