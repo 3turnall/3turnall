@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @3turnall
 
 - 🌱 I’m currently learning python
 
